@@ -1,0 +1,31 @@
+{
+  "contact": "privacy@grokforum.site",
+  "content_sha256": "c1d2e3d9e0109920f814ba84009918e75b7ee24a49fee44bd4dd5872cd8d05c6",
+  "etenders_retrieved": "2026-10-19",
+  "files": {
+    "404.html": "00d6f9d86931ddeb0a26caa786f4bffe7a90c0af5ca203e6cb87a28590074cea",
+    "index.html": "2af41a01b27c64f156dc681e0ed172874e4b75354c56b0aa522b0cb04cf18ac5",
+    "method/index.html": "df1157774ff6daedd3eee078111b622b4209b45c40601e509d63ec6e1accbd51",
+    "privacy/index.html": "6dad3434aee66034ec1e594bb882f18bf2971de89eac4866ec32891f86aa2edb",
+    "register.csv": "4a2e99d412f916a6efdf34dcec3838cbf33812f48d9b036011c4c6b3cd9e461a",
+    "robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
+  },
+  "group_counts": {
+    "held": 8,
+    "pending": 192,
+    "personal": 27,
+    "unmasked": 58,
+    "withheld": 6
+  },
+  "input_sha256": "f3b8044d0282468ede4b23d6affcead70a2150d066cb38a46a38755bdba1b5ed",
+  "responsible_party": "GrokForum",
+  "rows_total": 291,
+  "rules": "CHG-TW-004 revision 7 and 8; built by CHG-TW-006",
+  "site": "TenderWatch SA",
+  "status": "DRAFT",
+  "year_counts": {
+    "Row withheld (no cell)": 6,
+    "Year: Unknown": 258,
+    "Year: not shown (masked row)": 27
+  }
+}
